@@ -32,6 +32,10 @@ hashlib kütüphanesi
 - Şifreleme algoritmasını seçin (sha1 / sha224 / sha256 / sha384 / sha512 veya md5): sha256
 - Parolanız: f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b
 
+# Ekran Görüntüsü 
+
+![Tool Görüntüsü](https://github.com/F4KOR4LL/DDos-Attack/blob/master/Screenshot_120.png)
+
 *Lisans
 
 Bu proje MIT Lisansı altında lisanslıdır. Detaylar için LICENSE dosyasına bakın.
