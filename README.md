@@ -12,14 +12,17 @@ Kullanıcı adınızı girin.
 Oluşturulan parolayı kullanarak giriş yapın veya hesap oluşturun.
 
 # Önemli Notlar
+
 Uygulamada kullanılan şifreleme algoritmaları, günümüzde güvenlik açısından yeterli olmayabilir. Bu nedenle, parolalarınızı sık sık değiştirmeyi ve güçlü parolalar kullanmayı öneririz.
 Uygulama, verilerinizi hiçbir şekilde saklamaz veya paylaşmaz. Sadece size özel olarak oluşturulan parolayı gösterir.
 
 # Gereksinimler
+
 Python 3.x
 hashlib kütüphanesi
 
 # Kurulum
+
 - Bu repoyu klonlayın veya indirin.
 - Terminalde, uygulamanın bulunduğu dizine gidin.
 - python `password_generator.py` komutunu çalıştırın.
@@ -31,6 +34,9 @@ hashlib kütüphanesi
 - Kullanıcı adınızı girin: user123
 - Şifreleme algoritmasını seçin (sha1 / sha224 / sha256 / sha384 / sha512 veya md5): sha256
 - Parolanız: f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b
+
+# Ekran Görüntüsü
+![Ekran Görüntüsü](https://github.com/F4KOR4LL/password_generator/blob/main/Screenshot_120.png)
 
 # Lisans
 
